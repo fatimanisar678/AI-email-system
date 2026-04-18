@@ -1,0 +1,14 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.python-version
+
+# Env
+.env
+backend/.env
+
+# Node
+node_modules/
+dist/
+

@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import EmailInput from './components/EmailInput'
 import ProfileForm from './components/ProfileForm'
-import ResultsPanel from './components/Resultpanel'
+import ResultsPanel from './components/ResultsPanel'
 import { analyzeEmails } from './api'
 
 const DEFAULT_PROFILE = {
